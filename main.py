@@ -176,18 +176,3 @@ def update_config():
 handle_arguments()
 start()
 update_config()
-
-
-'''
-mail = imaplib.IMAP4_SSL('imap.gmail.com')
-mail.login(email_config.email, email_config.password)
-mail.select()
-
-typ, msg_numbers = mail.search(None, 'ALL')
-
-for num in msg_numbers[0].split():
-    typ, data = mail.fetch(num, '(RFC822)')
-    print(data)
-    # data1 = base64.b64decode(data[0][1])
-    # print('message %s\n%s\n' %(num, data1))
-'''
