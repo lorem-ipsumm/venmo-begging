@@ -1,5 +1,4 @@
-venmo-begging: i'm sorry everyone
-
+## Venmo Begging
 
 Disclamer: This project got my venmo account permanently banned. No one was hurt
 during the making of this so no harm no foul.
@@ -18,7 +17,7 @@ Before my account was eventually banned, I made a total of $5.03
 Not too shabby.
 
 
- ## (old) Screenshots
+ ## Screenshots
  ![Alt text](pics/small2.png?raw=true "Title")
  ![Alt text](pics/small3.png?raw=true "Title")
  ![Alt text](pics/double_full.png?raw=true "Title")
