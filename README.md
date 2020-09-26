@@ -18,7 +18,6 @@ Not too shabby.
 
 
  ## Screenshots
- ![Alt text](pics/small2.png?raw=true "Title")
  ![Alt text](pics/small3.png?raw=true "Title")
  ![Alt text](pics/double_full.png?raw=true "Title")
  
